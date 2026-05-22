@@ -1,13 +1,3 @@
-41.4171715.355-0.03652.251
-
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install matplotlib
-pip install scikit-learn
-pip install tensorflow
-pip install ipython
-
 # 💧 Water Potability Analysis & Visualization
 
 A comprehensive Jupyter notebook for exploring water quality characteristics and predicting potability using data analysis, statistical methods, and visualization techniques.
